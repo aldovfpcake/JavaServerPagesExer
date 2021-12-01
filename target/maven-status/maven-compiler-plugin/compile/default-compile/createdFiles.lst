@@ -1,0 +1,10 @@
+mx\com\gm\domain\Post.class
+mx\com\gm\web\Altaper.class
+mx\com\gm\web\listado.class
+mx\com\gm\web\ServletControlador.class
+mx\com\gm\web\AgregarPersona.class
+mx\com\gm\web\ListadoPersonas.class
+mx\com\gm\dao\PersonaDao.class
+mx\com\gm\servicios\ServiciosPersonas.class
+mx\com\gm\web\ListadoServlet.class
+mx\com\gm\domain\Persona.class
